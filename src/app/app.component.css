@@ -1,0 +1,19 @@
+.hfPoTr {
+  position: absolute;
+  left: 1px;
+  top: 50%;
+  width: 160px;
+  height: 34px;
+  background-color: hsl(0,0%,97%);
+  color: hsl(0,0%,33%);
+  transform: rotate(-90deg) translateX(-50%) translateY(-100%);
+  transform-origin: left top;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: inherit;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 2px;
+  cursor: pointer;
+  z-index: 2;
+  border-radius: 3px 3px 0px 0px;
+  outline: none;
+}
